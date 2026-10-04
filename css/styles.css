@@ -567,6 +567,8 @@ body {
     background: var(--primary-gradient);
     color: white;
     border: none;
+    display: block;
+    margin: 0 auto;
     padding: 18px 45px;
     border-radius: 15px;
     cursor: pointer;
